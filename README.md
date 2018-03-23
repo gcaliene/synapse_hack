@@ -1,2 +1,2 @@
 # synapse_hack
-Synapse Hackathon 
+Synapse Summit Hackathon: Met Min Challenge 
